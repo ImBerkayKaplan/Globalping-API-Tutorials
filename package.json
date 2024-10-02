@@ -1,0 +1,26 @@
+{
+  "name": "globalping-api-tutorials",
+  "version": "1.0.0",
+  "description": "This repository is a set of example code for Globalping's API",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImBerkayKaplan/Globalping-API-Tutorials.git"
+  },
+  "author": "Berkay Kaplan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ImBerkayKaplan/Globalping-API-Tutorials/issues"
+  },
+  "homepage": "https://github.com/ImBerkayKaplan/Globalping-API-Tutorials#readme",
+  "dependencies": {
+    "axios": "1.7.7",
+    "prettier": "*"
+  }
+}
